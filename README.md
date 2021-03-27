@@ -1,5 +1,6 @@
 # BOCAH_PINTER
 Aplikasi Bocah Pintar  ini ditujukan untuk mengedukasi anak  dalam pembelajaran dengna ditunjang animasi.
+Kelompok F
 Mia Yuli Yani 1941416
 Mila Sintia Agustin 1941485
 Wahid Amar Shobri 1941482
